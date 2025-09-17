@@ -1,7 +1,7 @@
 const container = document.querySelector('.container'); //отримуємо контейнер
 
 
-fetch('/cards.json') //шлях до списку карток, отримуємо проміс
+fetch('./cards.json') //шлях до списку карток, отримуємо проміс
     .then(response => response.json()) //преобразуємо формат json у JS
     .then(cards => {
         container.innerHTML = cards.map(card => {
