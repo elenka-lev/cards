@@ -137,45 +137,45 @@
 },
  {
     "id":28,
-    "rang": "/icons/hearts_6.svg",
+    "rang": "/icons/spades_6.svg",
     "back": "/image/back.jpg"
 },
 {
     "id":29,
-    "rang": "/icons/hearts_7.svg",
+    "rang": "/icons/spades_7.svg",
     "back": "/image/back.jpg"
 },
 {
     "id":30,
-    "rang": "/icons/hearts_8.svg",
+    "rang": "/icons/spades_8.svg",
     "back": "/image/back.jpg"
 },
 {
     "id":31,
-    "rang": "/icons/hearts_9.svg",
+    "rang": "/icons/spades_9.svg",
     "back": "/image/back.jpg"
 },
 {
     "id":32,
-    "rang": "/icons/hearts_10.svg",
+    "rang": "/icons/spades_10.svg",
     "back": "/image/back.jpg"
 },
 {
     "id":33,
-    "rang": "/icons/hearts_jack.svg",
+    "rang": "/icons/spades_jack.svg",
     "back": "/image/back.jpg"
 },
 {
     "id":34,
-    "rang": "/icons/hearts_queen.svg"
+    "rang": "/icons/spades_queen.svg"
 },
 {
     "id":35,
-    "rang": "/icons/hearts_king.svg"
+    "rang": "/icons/spades_king.svg"
 },
 {
     "id":36,
-    "rang": "/icons/hearts_ace.svg",
+    "rang": "/icons/spades_ace.svg",
     "back": "/image/back.jpg"
 }
 ]
