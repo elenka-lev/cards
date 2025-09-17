@@ -31,7 +31,7 @@
 .card-front {
     z-index: 1;
     position: relative;
-    background: url('./image/back.jpg') center center/cover no-repeat;
+    background: url('image/back.jpg') center center/cover no-repeat;
     height: 100%;
     text-align: center;
     backface-visibility: hidden;
