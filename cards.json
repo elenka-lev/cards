@@ -1,0 +1,181 @@
+[
+    {
+    "id":1,
+    "rang": "/icons/clubs_6.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":2,
+    "rang": "/icons/clubs_7.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":3,
+    "rang": "/icons/clubs_8.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":4,
+    "rang": "/icons/clubs_9.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":5,
+    "rang": "/icons/clubs_10.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":6,
+    "rang": "/icons/clubs_jack.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":7,
+    "rang": "/icons/clubs_queen.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":8,
+    "rang": "/icons/clubs_king.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":9,
+    "rang": "/icons/clubs_ace.svg",
+    "back": "/image/back.jpg"
+},
+
+    {
+    "id":10,
+    "rang": "/icons/diamonds_6.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":11,
+    "rang": "/icons/diamonds_7.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":12,
+    "rang": "/icons/diamonds_8.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":13,
+    "rang": "/icons/diamonds_9.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":14,
+    "rang": "/icons/diamonds_10.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":15,
+    "rang": "/icons/diamonds_jack.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":16,
+    "rang": "/icons/diamonds_queen.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":17,
+    "rang": "/icons/diamonds_king.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":18,
+    "rang": "/icons/diamonds_ace.svg",
+    "back": "/image/back.jpg"
+},
+ {
+    "id":19,
+    "rang": "/icons/hearts_6.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":20,
+    "rang": "/icons/hearts_7.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":21,
+    "rang": "/icons/hearts_8.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":22,
+    "rang": "/icons/hearts_9.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":23,
+    "rang": "/icons/hearts_10.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":24,
+    "rang": "/icons/hearts_jack.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":25,
+    "rang": "/icons/hearts_queen.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":26,
+    "rang": "/icons/hearts_king.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":27,
+    "rang": "/icons/hearts_ace.svg",
+    "back": "/image/back.jpg"
+},
+ {
+    "id":28,
+    "rang": "/icons/hearts_6.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":29,
+    "rang": "/icons/hearts_7.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":30,
+    "rang": "/icons/hearts_8.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":31,
+    "rang": "/icons/hearts_9.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":32,
+    "rang": "/icons/hearts_10.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":33,
+    "rang": "/icons/hearts_jack.svg",
+    "back": "/image/back.jpg"
+},
+{
+    "id":34,
+    "rang": "/icons/hearts_queen.svg"
+},
+{
+    "id":35,
+    "rang": "/icons/hearts_king.svg"
+},
+{
+    "id":36,
+    "rang": "/icons/hearts_ace.svg",
+    "back": "/image/back.jpg"
+}
+]

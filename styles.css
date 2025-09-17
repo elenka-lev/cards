@@ -1,0 +1,64 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    gap: 5px;
+    justify-items: center;
+}
+@media (max-width: 1200px) {
+    .container {
+        grid-template-columns: repeat(6, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+.card {
+    position: relative;
+    width: 120px;
+    height: 200px;
+    color: white;
+}
+
+.card-front {
+    z-index: 1;
+    position: relative;
+    background: url('/image/back.jpg') center center/cover no-repeat;
+    height: 100%;
+    text-align: center;
+    backface-visibility: hidden;
+    transition: transform 1s cubic-bezier(.2, .85, .4, 1.275);
+}
+
+.card-back {
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    backface-visibility: hidden;
+    transform: rotateY(-180deg);
+    transition: transform .3s cubic-bezier(.2, .85, .4, 1.275);
+}
+.svg {
+    width: 100%;
+    height: 100%;    
+}
+.card:hover .card-back {
+    transform: rotateY(0deg);
+    z-index: 2;
+}
+
+.card:hover .card-front {
+    transform: rotateY(180deg);
+    z-index: -1;
+}
