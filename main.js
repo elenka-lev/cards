@@ -3,8 +3,11 @@ const container = document.querySelector('.container'); //отримуємо к�
 
 fetch('./cards.json') //шлях до списку карток, отримуємо проміс
     .then(response => response.json()) //преобразуємо формат json у JS
-    .then(cards => {
-        container.innerHTML = cards.map(card => {
+
+      //перебираємо отриманий об'єкт
+      .then((cards) => {
+        container.innerHTML = cards
+          .map((card) => {
             return `
         <div class="card">
             <div class="card-front"></div>
@@ -14,6 +17,9 @@ fetch('./cards.json') //шлях до списку карток, отримує�
                 
             </div>
         </div>`;
-        }).join(''); //додаємо до html
-    })
-    .catch(err => console.log(err)); //відловлюєио помилки
+          })
+          .join(""); //додаємо до html
+      })
+    .catch((err) => console.log(err)); //відловлюєио помилки
+      
+    console.log(response.json());
